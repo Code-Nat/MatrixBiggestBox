@@ -3,7 +3,6 @@ public class BiggestBox
 {
 	public static int biggestRect (int[][] a)
 	{
-		a.
 		return a[1][1];
 	}
 
